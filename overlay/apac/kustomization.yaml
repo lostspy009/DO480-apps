@@ -7,5 +7,5 @@ nameSuffix: -apac
 
 images:
   - name: mysql
-    image: registry.redhat.io/rhel8/mysql-80
+    newName: registry.redhat.io/rhel8/mysql-80
     newTag: 1-152
