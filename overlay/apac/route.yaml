@@ -6,7 +6,7 @@ metadata:
     name: frontend
   name: frontend
 spec:
-  host: todo.apps.ocp4.example.com
+  host: todo.apps.hubcluster.lab.psi.pnq2.redhat.com
   path: "/todo"
   to:
     kind: Service
